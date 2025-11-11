@@ -6,7 +6,7 @@ To study I-V characteristics of Gunn Diode and depth of modulation of modulation
 
 **Apparatus Used:**
 
-Gunn power supply, Gunn oscillator, PIN modulator, Isolator, Frequency Meter, Variableattenuator, Detector mount, Slotted section, VSWR meter.
+Gunn power supply, Gunn oscillator, PIN modulator, Isolator, Frequency Meter, Variable attenuator, Detector mount, Slotted section, VSWR meter.
 
 **Experimental Setup:**
 
@@ -55,7 +55,19 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 **B.Observation:**
 
-<img width="481" height="320" alt="Screenshot 2025-11-04 083247" src="https://github.com/user-attachments/assets/f6696e2a-f73c-4588-a2f9-d0c745a7fcdd" />
+
+| S.No | GUNN BIAS VOLTAGE (V)  | GUNN DIODE CURRENT (mA)  |
+|------|------------------------|--------------------------|
+| 1    | 0.2                    | 30                       |
+| 2    | 0.4                    | 60                       |
+| 3    | 0.8                    | 90                       |
+| 4    | 1.5                    | 150                      |
+| 5    | 2.0                    | 180                      |
+| 6    | 2.5                    | 210                      |
+| 7    | 3.5                    | 195                      |
+| 8    | 4.3                    | 180                      |
+| 9    | 5.0                    | 165                      |
+
 
 **Observation Analysis**
 
@@ -98,3 +110,7 @@ This behavior confirms the **negative differential resistance (NDR)** characteri
 - Calculated negative resistance (Rₙ) ≈ –125 Ω.
 - The depth of modulation of the PIN diode can be obtained from the dB difference in the VSWR readings.  
 Hence, the experiment is successfully performed, and the negative differential resistance characteristics of the Gunn diode were verified.
+
+**Graph:**
+
+![WhatsApp Image 2025-11-09 at 06 18 11_96de9192](https://github.com/user-attachments/assets/192b6d90-5056-4818-a25a-96e2776e0a30)
