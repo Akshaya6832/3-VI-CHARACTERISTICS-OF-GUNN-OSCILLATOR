@@ -10,7 +10,7 @@ Gunn power supply, Gunn oscillator, PIN modulator, Isolator, Frequency Meter, Va
 
 **Experimental Setup:**
 
-<img width="880" height="180" alt="image" src="https://github.com/user-attachments/assets/c5e2a20b-5047-4518-886c-c020728660d5" />
+<img width="880" height="100" alt="image" src="https://github.com/user-attachments/assets/c5e2a20b-5047-4518-886c-c020728660d5" />
 
 **Theory**
 
@@ -50,11 +50,9 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 4.	Now with help of variable attenuator coincide the top of square wave to same referencelevel and note down the micrometer reading.
 5.	Connect VSWR to detector mount and note down the dB reading in VSWR meter for boththe micrometer reading the variable attenuator.
 6.	The difference of both dB reading of VSWR meter gives the modulation depth of PINmodulator.
-
 *Note: After tuning the Gunn source, the procedure for VSWR & Impedance measurement depthof PIN modulator.*
 
 **B.Observation:**
-
 
 | S.No | GUNN BIAS VOLTAGE (V)  | GUNN DIODE CURRENT (mA)  |
 |------|------------------------|--------------------------|
@@ -67,7 +65,6 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 | 7    | 3.5                    | 195                      |
 | 8    | 4.3                    | 180                      |
 | 9    | 5.0                    | 165                      |
-
 
 **Observation Analysis**
 
@@ -84,7 +81,7 @@ This behavior confirms the **negative differential resistance (NDR)** characteri
 
 #### **Sample Calculation**
 
-<img width="779" height="200" alt="Screenshot 2025-11-04 085418" src="https://github.com/user-attachments/assets/c198862d-91c0-4a08-ad1b-2887c13a1a81" />
+<img width="779" height="150" alt="Screenshot 2025-11-04 085418" src="https://github.com/user-attachments/assets/c198862d-91c0-4a08-ad1b-2887c13a1a81" />
 
 **Graph:**
 
