@@ -17,7 +17,7 @@ Gunn power supply, Gunn oscillator, PIN modulator, Isolator, Frequency Meter, Va
 The Gunn oscillator is base on negative differential conductivity effect in bulk semi- conductors. Gunn diode has two conduction bands separated by an energy gap (greater than thermal agitation energies). When an electron is moved to the satellite energy band, it will have negative differentialmobility. This produces the negative resistance required for the oscillations.
 In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this case the oscillationfrequency is determined by cavity dimension than by diode itself. Although Gunn oscillator can be amplitude-modulated with the bias voltage, separate PIN modulator through is used in this experiment. A square wave modulating signal is applied through the modulator on to the microwave carrier signal.
 
-<img width="740" height="455" alt="image" src="https://github.com/user-attachments/assets/9b16ba28-f83b-43b3-8d03-2693c241ffb7" />
+<img width="740" height="355" alt="image" src="https://github.com/user-attachments/assets/9b16ba28-f83b-43b3-8d03-2693c241ffb7" />
 
 **Procedure:**
 
@@ -84,7 +84,7 @@ This behavior confirms the **negative differential resistance (NDR)** characteri
 
 #### **Sample Calculation**
 
-<img width="779" height="279" alt="Screenshot 2025-11-04 085418" src="https://github.com/user-attachments/assets/c198862d-91c0-4a08-ad1b-2887c13a1a81" />
+<img width="779" height="200" alt="Screenshot 2025-11-04 085418" src="https://github.com/user-attachments/assets/c198862d-91c0-4a08-ad1b-2887c13a1a81" />
 
 **Graph:**
 
