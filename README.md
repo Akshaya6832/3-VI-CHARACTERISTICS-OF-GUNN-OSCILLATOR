@@ -86,6 +86,10 @@ This behavior confirms the **negative differential resistance (NDR)** characteri
 
 <img width="779" height="279" alt="Screenshot 2025-11-04 085418" src="https://github.com/user-attachments/assets/c198862d-91c0-4a08-ad1b-2887c13a1a81" />
 
+**Graph:**
+
+![WhatsApp Image 2025-11-09 at 06 18 11_96de9192](https://github.com/user-attachments/assets/192b6d90-5056-4818-a25a-96e2776e0a30)
+
 
 **D.Conclusions:**
 
@@ -111,6 +115,3 @@ This behavior confirms the **negative differential resistance (NDR)** characteri
 - The depth of modulation of the PIN diode can be obtained from the dB difference in the VSWR readings.  
 Hence, the experiment is successfully performed, and the negative differential resistance characteristics of the Gunn diode were verified.
 
-**Graph:**
-
-![WhatsApp Image 2025-11-09 at 06 18 11_96de9192](https://github.com/user-attachments/assets/192b6d90-5056-4818-a25a-96e2776e0a30)
